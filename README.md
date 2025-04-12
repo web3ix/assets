@@ -1,1 +1,1 @@
-# assets
+# Web3ix assets
